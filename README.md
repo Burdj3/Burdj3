@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack - or Burdj3 in this case 👋
 
-## I'm a Husband, Dog-Dad, and Developer!
+## I'm a Husband, Dog Dad, and Developer!
 - I'm currently working on building a personal work out app
 - 🌱 I'm currently learning more about React Native and cross platform app development
 - 👯 I'm looking to collaborate with more experienced developers to learn more from their projects
