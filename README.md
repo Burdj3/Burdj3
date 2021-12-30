@@ -12,8 +12,8 @@
 
 ### Languages and Tech Stack:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burdj3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burdj3&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
