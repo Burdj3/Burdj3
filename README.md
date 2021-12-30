@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Step out of my comfort zone and contribute more to Open Source projects
 - ⚡ Fun fact: I love to go rock climbing and get outdoors
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burdj3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burdj3&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Burdj3/Burdj3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
