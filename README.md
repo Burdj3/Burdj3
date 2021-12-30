@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Burdj3 . Most people just call me Jack.
-- 👀 I’m interested in getting better at coding. I'd like to write cleaner code more efficiently, and learn how to make some cool applications.
-- 🌱 I’m currently learning Computer Science @ University of Houston - Clear Lake.
-- 💞️ I’m looking to collaborate on anything really. I want to learn new things such as cloud storage and how to design better user interfaces. I'm also interested in learning more about Unreal Engine specifically since I'd enjoy making indie games in my free time.
-- 📫 How to reach me: email me at burdj3@gmail.com
+### Hi there, I'm Jack - or Burdj3 in this case 👋
+
+## I'm a Husband, Dog-Dad, and Developer!
+- I'm currently working on building a personal work out app
+- 🌱 I'm currently learning more about React Native and cross platform app development
+- 👯 I'm looking to collaborate with more experienced developers to learn more from their projects
+- 🥅 2022 Goals: Step out of my comfort zone and contribute more to Open Source projects
+- ⚡ Fun fact: I love to go rock climbing and get outdoors
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burdj3)](https://github.com/anuraghazra/github-readme-stats)
 
