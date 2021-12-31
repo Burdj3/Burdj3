@@ -1,5 +1,6 @@
 ### Hi there, I'm Jack - or Burdj3 in this case 👋
 
+
 ## I'm a Husband, Dog Dad, and Developer!
 - 💪 I'm currently working on building a personal work out app
 - 🌱 I'm currently learning more about React Native and cross platform app development
@@ -7,10 +8,11 @@
 - 🥅 2022 Goals: Step out of my comfort zone and contribute more to Open Source projects
 - ⚡ Fun fact: I love to go rock climbing and get outdoors
 
-### Connect with me:
+## Connect with me:
 
 
-### Languages and Tech Stack:
+## Languages and Tech Stack:
+
 <img align="left" alt="Android Studio" width="26px" src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -27,9 +29,10 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burdj3&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Burdj3's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burdj3&layout=compact&theme=slateorange"/>
 
----
+
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burdj3&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
