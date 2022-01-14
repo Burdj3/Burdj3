@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Dog Dad, and Developer!
 - 💪 I'm currently working on building a personal work out app
-- 🌱 I'm currently learning more about React Native and cross platform app development
+- 🌱 I'm actively learning more about React Native and cross platform app development
 - 👯 I'm looking to collaborate with more experienced developers to learn more from their projects
 - 🥅 2022 Goals: Step out of my comfort zone and contribute more to Open Source projects
 - ⚡ Fun fact: I love to go rock climbing and get outdoors
