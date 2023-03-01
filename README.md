@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on a few Udemy courses to further my understanding of native development  
   
 
-- 🌱 I’m currently learning more about native android development, with some occasional React Native.  
+- 🌱 I'm currently learning more about web development, primarily focusing on React and AWS 
   
 
-- 🥅 2022 Goals: Step out of my comfort zone and contribute more to Open Source projects  
+- 🥅 2023 Goals: Network more and launch some new applications
   
 
-- ⚡ Fun fact: I love to go rock climbing and get outdoors  
+- ⚡ Fun fact: I love to go fishing and get outdoors  
   
 
 <br/>  
