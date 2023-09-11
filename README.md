@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jack, a full-time android developer, husband, and dog dad!</div>  
+### <div align="center">I'm Jack, a full-stack developer, husband, and dad!</div>  
   
 
 - 🔭 I’m currently working on a few Udemy courses to further my understanding of native development  
@@ -12,10 +12,10 @@
 - 🌱 I'm currently learning more about web development, primarily focusing on React and AWS 
   
 
-- 🥅 2023 Goals: Network more and launch some new applications
+- 🥅 2023 Goals: Become more familiar with serverless applications and using AWS for cloud-based development
   
 
-- ⚡ Fun fact: I love to go fishing and get outdoors  
+- ⚡ Fun fact: I once got funding to research NFL Combine measurements and whether they mattered to a player's success in the league!  
   
 
 <br/>  
