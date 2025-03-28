@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Jack, a full-stack developer, husband, and dad!</div>  
+### <div align="center">I'm Jack, a front-end developer, husband, and dad!</div>  
   
 
-- 🔭 I’m currently working on a few Udemy courses to further my understanding of native development  
+- 🔭 I’m currently working on a mono-repo application at work, using React-native. It's a unique challenge managing native components, and making sure they work on web.  
   
 
 - 🌱 I'm currently learning more about web development, primarily focusing on React and AWS 
   
 
-- 🥅 2023 Goals: Become more familiar with serverless applications and using AWS for cloud-based development
+- 🥅 2025 Goals: Build more personal projects, and refine my skills now that I've got a solid base to of knowledge to work off of
   
 
 - ⚡ Fun fact: I once got funding to research NFL Combine measurements and whether they mattered to a player's success in the league!  
@@ -41,8 +41,6 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
